@@ -1,0 +1,104 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+
+.navbar{
+    margin: 0px;
+    padding: 10px;
+    width: auto;
+    background-color: #002244;
+    color: aqua;
+    justify-content: center;
+}
+
+#info{
+    color: aqua;
+    text-decoration: none;
+}
+
+#contact{
+    text-decoration: none;
+    color: aqua;
+}
+
+#signup{
+    text-decoration: none;
+    color: aqua;
+}
+
+
+
+.navcon{
+    padding-left: 300px;
+    font-size: larger;
+}
+
+#logo{
+    font-size: xx-large;
+    font-family: cursive;
+    padding-left: 0px;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    height: 600px;
+    width: 400px;
+    border: 3px solid black;
+    border-radius: 3rem;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    position: absolute;
+    margin-left: 650px; 
+    background-color: aqua;
+    background-image: url(https://img.freepik.com/free-vector/dark-gradient-background-with-copy-space_53876-99548.jpg);
+    background-size: cover;
+    box-shadow: 10px 10px 8px;
+}
+
+
+
+h1{
+    color: antiquewhite;
+    margin-top: 0px;
+    padding: 10px;
+    
+}
+
+.content{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 2rem;
+}
+
+#button{
+    margin:10px;
+    padding:10px;
+    background-color: black;
+    color: white;
+}
+
+#button:hover{
+    background-color: burlywood;
+    color: black;
+}
+
+.content:hover{
+    background-color: black;
+    color: aqua;
+    font-family: sans-serif;
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-photo/dark-gray-wall-with-wooden-plank-product-background_53876-128557.jpg?ga=GA1.1.815528625.1730623261&semt=ais_hybrid);
+    background-size: cover;
+}
+
+h4{
+    color: aqua;
+}
+
